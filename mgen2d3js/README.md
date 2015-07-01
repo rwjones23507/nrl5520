@@ -42,10 +42,9 @@ Will produce a notional output file such as the following:
  
 #### II - Usage
 
-`parsefile.py <infile>`
-`[output <outfile>]`<sup>1</sup>
+`parsefile.py <infile>` `[output <outfile>]`<sup>1</sup>
 
-<sup>1</sup>Default is current directory, with .json suffix
+<sup>1</sup>Default is path/filename of the input file, with the file extension changed to .json
 
 Command Line Parameters and Options
 
