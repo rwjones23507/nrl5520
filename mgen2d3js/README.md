@@ -44,7 +44,7 @@ Will produce a notional output file such as the following:
 
 `parsefile.py <infile>` `[output <outfile>]`<sup>1</sup>
 
-<sup>1</sup>Default is path/filename of the input file, with the file extension changed to .json
+<sup>1</sup>The default outfile is the path/filename of the input file, with the file extension changed to .json
 
 Command Line Parameters and Options
 
