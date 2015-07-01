@@ -43,9 +43,9 @@ Will produce a notional output file such as the following:
 #### II - Usage
 
 `parsefile.py <infile>`
-`[output <outfile>]`1
+`[output <outfile>]`<sup>1</sup>
 
-1Default is current directory, with .json suffix
+<sup>1</sup>Default is current directory, with .json suffix
 
 Command Line Parameters and Options
 
