@@ -1,3 +1,7 @@
+Minor version changes (to the right of the decimal place) indicate bug fixes, refactoring of existing code, or changes to docstrings.
+
+Major verions changes (to the left of the decimal place) indicate an additional feature or significant enhancement of an existing feature.
+
 
 | Date | Version | Action | Comments |
 | ---- | ------- | ------ | -------- |
